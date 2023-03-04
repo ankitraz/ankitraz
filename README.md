@@ -21,7 +21,7 @@
 ## 🎓 About me
 • I’m currently pursuing my Bachelors in Computer Science & Engineering <br />
 • Learning DevOps. <br/>
-• Interested in Java.
+• Interested in Python.
 
 
 ##  ✔ Technologies 
