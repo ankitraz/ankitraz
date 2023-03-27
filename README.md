@@ -33,3 +33,5 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />  
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+## Stats 📊
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitraz&theme=radical)
